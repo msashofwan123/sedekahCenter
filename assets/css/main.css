@@ -1,0 +1,21 @@
+body {
+    background-image: url('../back.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a {
+    text-decoration: none;
+    color: #0090d6;
+    transition-duration: 50ms;
+}
+
+a:hover {
+    color: black;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+h2 {
+    font-family: 'Lilita One', cursive;
+    font-weight: bold;
+}
